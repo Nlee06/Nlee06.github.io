@@ -73,7 +73,7 @@ $(function () {
 
 createCannon("bottom",260,1000);
 
-createCannon("bottom",500,1000,10);
+createCannon("bottom",500,999,10);
 
 createCannon("bottom",1000,1000,20);
 
